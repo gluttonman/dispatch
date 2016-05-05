@@ -5,7 +5,8 @@ require("dispatch")(path.join(__dirname, "routers"), app)
 
 /* 通常做法如下 */
 
-const demo = require("./routes/demo")
+const demo = require("./routes/demo");
+
 app.use("/demo", demo)
 
 /* 当有多个路由文件时，将产生多行代码，上面的代码很好的解决了这个问题。 */
