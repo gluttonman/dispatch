@@ -1,6 +1,6 @@
 {
   "name": "@yx/dispatch-routers",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "manager routers",
   "main": "index.js",
   "scripts": {
