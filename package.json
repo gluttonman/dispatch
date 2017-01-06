@@ -1,5 +1,5 @@
 {
-  "name": "dispatch-routers",
+  "name": "@yx/dispatch-routers",
   "version": "0.1.0",
   "description": "manager routers",
   "main": "index.js",
